@@ -7,6 +7,6 @@ for i in range(r):
     for j in range(c):
         x=int(input("Enter the element"))
         mat[i].append(x)
-
+#changes
 		
 print(mat)
