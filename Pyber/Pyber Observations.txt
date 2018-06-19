@@ -1,0 +1,6 @@
+You must include a written description of three observable trends based on the data.
+1) The Urban City Type gets more has the most drivers of the three city types. 
+   
+2)At the same time the get more rides and consequently more total fares than the other three city types.
+3) The average cost per ride is higher in the rural city type followed by the surbaban and least in the Urban city type.
+   The cost seems to be inversely propotional to the number of drivers and number of rides.
